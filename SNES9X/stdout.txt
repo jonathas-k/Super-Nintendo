@@ -1,0 +1,2 @@
+Reading config file C:\Users\889703\Desktop\Super Nintendo\SNES9X\snes9x.conf.
+Saving	config file	C:\Users\889703\Desktop\Super Nintendo\SNES9X\snes9x.conf
